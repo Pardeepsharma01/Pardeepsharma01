@@ -1,10 +1,7 @@
-<!--### Hi there 👋-->
 
 <img width="100%" height="300px"
     src="https://i.ytimg.com/vi/_UqzFDbI0oU/maxresdefault.jpg" />
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-
 <img align="right" width="400" src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif?cid=ecf05e47vgubj9u2wgwdwxeqbdf8f5leko44r4ol9h1jwhfm&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
 
@@ -42,7 +39,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<h3 align="left">🛠️ Tech Stack and FrameWorks:
+<h3 align="center">🛠️ Tech Stack and FrameWorks:
 </h3>
 
 
