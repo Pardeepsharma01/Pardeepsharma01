@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning **React js, JavaScript, Core Java**
-- 👨‍💻 All of my projects are available at [https://github.com/Pardeepsharma01](https://github.com/Pardeepsharma01)
+- 👨‍💻 All of my projects are available at [https://github.com/Pardeepsharma01?tab=repositories](https://github.com/Pardeepsharma01?tab=repositories)
 
 - 💬 Ask me about **React js, Core Java**
 
