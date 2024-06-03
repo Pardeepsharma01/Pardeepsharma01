@@ -17,7 +17,7 @@
 - 📫 How to reach me **sharmaji336659@gmail.com**
 - 📫 LinkedIn **https://www.linkedin.com/in/pardeep-sharma-03b5a7236/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q1r9cCpCV_9VCbxs_5hfkYeeodvoZd4C/view?usp=drive_link](https://drive.google.com/file/d/1Q1r9cCpCV_9VCbxs_5hfkYeeodvoZd4C/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11TU8qPK1Aaze0S8Bw0SeiW8CcM1tzPfF/view?usp=drive_link](https://drive.google.com/file/d/11TU8qPK1Aaze0S8Bw0SeiW8CcM1tzPfF/view?usp=drive_link)
 * ⚡ I like interacting with new people and explore the world.
 
 - ⚡ Fun fact **I think I am funny**
