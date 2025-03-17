@@ -4,15 +4,15 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 <img  align="right" width="400" src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/200w.webp?cid=ecf05e47dev3gcvzmxdvu56oh8is8dlpvft33wv32jejhumw&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
 <h1 align="center">Hi 👋, I'm Pardeep Sharma</h1>
-<h3 align="center">Highly motivated and Front-End React js and Core java Developer with strong technical skills and a
+<h3 align="">Highly motivated and Front-End Developer with strong technical skills and a
     passion for developing efficient and reliable software</h3>
 
 
 
-- 🌱 I’m currently learning **React js, JavaScript, Core Java**
+- 🌱 I’m currently learning **React.js, Next.js JavaScript, Core Java**
 - 👨‍💻 All of my projects are available at [https://pardeepsharmaportfolio.vercel.app/](https://pardeepsharmaportfolio.vercel.app/)
 
-- 💬 Ask me about **React js, Core Java**
+- 💬 Ask me about **React.js, Next.js, Core Java**
 
 - 📫 How to reach me **sharmaji336659@gmail.com**
 - 📫 LinkedIn **https://www.linkedin.com/in/pardeep-sharma-03b5a7236/**
