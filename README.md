@@ -9,15 +9,15 @@
 
 
 
-- 🌱 I’m currently learning **React.js, Next.js JavaScript, Core Java**
-- 👨‍💻 All of my projects are available at [https://pardeepsharmaportfolio.vercel.app/](https://pardeepsharmaportfolio.vercel.app/)
+- 🌱 I’m currently learning **React.js, Next.js JavaScript, Typescript, Firebase, Supabase**
+- 👨‍💻 All of my projects are available at [https://pardeep-sharma-portfolio.vercel.app/](https://pardeep-sharma-portfolio.vercel.app/)
 
-- 💬 Ask me about **React.js, Next.js, Core Java**
+- 💬 Ask me about **React.js, Next.js, Javascript**
 
 - 📫 How to reach me **sharmaji336659@gmail.com**
 - 📫 LinkedIn **https://www.linkedin.com/in/pardeep-sharma-03b5a7236/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uFIfCSH7Qz13LZaexZNhGp_a6z8XFNNv/view?usp=sharing](https://drive.google.com/file/d/1uFIfCSH7Qz13LZaexZNhGp_a6z8XFNNv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11hw44heO2Q_fVXqVEpeKg-ZAUucHNnqO/view?usp=sharing](https://drive.google.com/file/d/11hw44heO2Q_fVXqVEpeKg-ZAUucHNnqO/view?usp=sharing)
 * ⚡ I like interacting with new people and explore the world.
 
 - ⚡ Fun fact **I think I am funny**
