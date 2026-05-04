@@ -8,9 +8,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6EE7B7)]([https://pardeep-sharma-portfolio.vercel.app/](https://pardeep-sharma-portfolio.vercel.app/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pardeepsharma01/](https://www.linkedin.com/in/pardeepsharma01/))
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/sharmaji59](https://x.com/sharmaji59))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6EE7B7)](https://pardeep-sharma-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pardeepsharma01/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sharmaji59)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaji336659@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=sharmaji336659&color=6EE7B7&style=flat-square&label=Profile+Views)
 
