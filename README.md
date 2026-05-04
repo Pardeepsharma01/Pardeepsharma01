@@ -69,7 +69,15 @@ const pardeep = {
 ![REST API](https://img.shields.io/badge/REST_APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
+## 💻 Languages Used
 
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pardeepsharma01&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
+
+</div>
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
