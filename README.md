@@ -1,103 +1,210 @@
+<div align="center">
 
-<img width="100%" height="300px"
-    src="https://i.ytimg.com/vi/_UqzFDbI0oU/maxresdefault.jpg" />
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<img  align="right" width="400" src="https://media3.giphy.com/media/TFPdmm3rdzeZ0kP3zG/200w.webp?cid=ecf05e47dev3gcvzmxdvu56oh8is8dlpvft33wv32jejhumw&ep=v1_gifs_search&rid=200w.webp&ct=g"/>
-<h1 align="center">Hi 👋, I'm Pardeep Sharma</h1>
-<h3 align="">Highly motivated Front-End Developer with strong technical skills and a
-    passion for developing efficient and reliable software</h3>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Rahul%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20✦%20React%20Enthusiast%20✦%20UI%20Craftsman&descAlignY=60&descSize=18" />
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=2+Years+of+Building+Beautiful+UIs+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Turning+Figma+Designs+into+Reality+%E2%9C%A8;Always+Learning%2C+Always+Improving+%F0%9F%93%9A" alt="Typing SVG" />
 
+<br/>
 
-- 🌱 I’m currently learning **React.js, Next.js JavaScript, Typescript, Firebase, Supabase**
-- 👨‍💻 All of my projects are available at [https://pardeep-sharma-portfolio.vercel.app/](https://pardeep-sharma-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6EE7B7)](https://rahulsharma.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsharma)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahulsharma_dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsharma.dev@gmail.com)
 
-- 💬 Ask me about **React.js, Next.js, Javascript**
+</div>
 
-- 📫 How to reach me **sharmaji336659@gmail.com**
-- 📫 LinkedIn **https://www.linkedin.com/in/pardeep-sharma-03b5a7236/**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11hw44heO2Q_fVXqVEpeKg-ZAUucHNnqO/view?usp=sharing](https://drive.google.com/file/d/11hw44heO2Q_fVXqVEpeKg-ZAUucHNnqO/view?usp=sharing)
-* ⚡ I like interacting with new people and explore the world.
+## 👨‍💻 About Me
 
-- ⚡ Fun fact **I think I am funny**
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+```javascript
+const rahul = {
+  name: "Rahul Sharma",
+  role: "Frontend Developer",
+  experience: "2 Years",
+  location: "Delhi, India 🇮🇳",
+  
+  currentlyWorking: "TechCorp Solutions Pvt. Ltd.",
+  currentlyLearning: ["Next.js 14", "Web Animations API", "Framer Motion"],
+  
+  passions: ["Clean UI", "Performance Optimization", "Accessible Web"],
+  
+  funFact: "I debug with console.log and I'm not ashamed 😄",
+  
+  contact: "rahulsharma.dev@gmail.com"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/@sharmaji59" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="@sharmaji59" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/pardeep-sharma-03b5a7236/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/pardeep-sharma-03b5a7236/" height="30" width="40" /></a>
-</p>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+## 🛠️ Tech Stack
 
-<h3 align="center">🛠️ Tech Stack and FrameWorks:
-</h3>
+### Frontend
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-<p align="left">
-    <img alt="Javascript"
-        src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"
-        height="80px" />
-    <img alt="Java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" height="80px" />
-    &nbsp
-    <img alt="Raect"
-        src="https://user-images.githubusercontent.com/82604884/207292328-3a5cc07a-f3fa-4078-a9e9-417bfe4e22b7.png"
-        height="80px" />
-    <br>
-    <img alt="html5" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" height="80px" />
-    <!-- <img alt="html5" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vonbu&psig=AOvVaw2JYoOQjHwunYkSywacDCdU&ust=1696242264247000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDgtfzQ1IEDFQAAAAAdAAAAABAI" height="80px" /> -->
-    <img alt="Css3" src="https://logoeps.com/wp-content/uploads/2012/04/css3-vector.png" height="80px" />
-    <img alt="git" src="https://uysalmustafa.com/wp-content/uploads/2016/11/git-logo-1.png" height="80px" />
-    <img alt="Github" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" height="80px" />
-    <img alt="AWS" src="https://www.eurocloudnative.de/app/uploads/2021/01/Amazon_Web_Services_Logo-300x300.png"
-        height="80px" />
-    <img alt="Visual Studio Code" src="https://miro.medium.com/max/1400/1*0LS0sRb2kjHtIIWtKAt-iw.png" height="80px" />
-    <img alt="Netlify" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.png" height="80px" />
-    <img alt="Netlify"
-        src="https://user-images.githubusercontent.com/82604884/207294461-cb3f31a9-b9f9-4817-b500-181b2a3227e3.png"
-        height="80px" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="40" height="40" />
-    </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> </a>
-</p>
+### State Management & Tools
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-<h2 align="center">📊 My Github Stats<h2>
-        <p><img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=pardeepsharma01&show_icons=true&locale=en&layout=compact"
-                alt="pardeepsharma01" /></p>
-        <p>&nbsp;<img align="center"
-                src="https://github-readme-stats.vercel.app/api?username=pardeepsharma01&show_icons=true&locale=en"
-                alt="pardeepsharma01" /></p>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pardeepsharma01&"
-                alt="pardeepsharma01" /></p>
-        <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;"
-            style="width: 100%;">
+### Backend Basics
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsharma-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsharma-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<!--
-**Pardeepsharma01/Pardeepsharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulsharma-dev&theme=tokyonight&hide_border=true&background=0D1117&fire=6EE7B7&ring=3B82F6&currStreakLabel=6EE7B7)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 ShopEase — E-Commerce Platform
+> A full-featured e-commerce web app with cart, wishlist, filters & Razorpay integration
+
+**Tech Used:** `React` `Redux Toolkit` `Tailwind CSS` `Firebase` `React Query`
+
+- 🔹 Dynamic product filtering & search with debouncing
+- 🔹 Authentication with Google OAuth & email/password
+- 🔹 Optimized images with lazy loading (40% faster load time)
+- 🔹 Fully responsive & accessible (WCAG 2.1 AA)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://shopease-demo.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulsharma-dev/shopease)
+
+---
+
+### 📋 TaskFlow — Project Management App
+> Trello-inspired Kanban board with real-time drag & drop functionality
+
+**Tech Used:** `React` `TypeScript` `Framer Motion` `Supabase` `Zustand`
+
+- 🔹 Smooth drag-and-drop with beautiful animations
+- 🔹 Real-time collaboration using Supabase subscriptions
+- 🔹 Dark/Light theme with system preference detection
+- 🔹 PWA support — works offline
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://taskflow-demo.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulsharma-dev/taskflow)
+
+---
+
+### 🌦️ WeatherNow — Weather Dashboard
+> Beautiful weather app with 7-day forecast, location search & animated UI
+
+**Tech Used:** `React` `Next.js` `TypeScript` `OpenWeather API` `CSS Modules`
+
+- 🔹 Location-based weather using Geolocation API
+- 🔹 Animated weather icons & smooth transitions
+- 🔹 Celsius/Fahrenheit toggle with local persistence
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://weathernow-demo.vercel.app)
+[![GitHub Repo](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulsharma-dev/weathernow)
+
+---
+
+## 💼 Work Experience
+
+```
+🏢 TechCorp Solutions Pvt. Ltd.               Jan 2024 – Present
+   Junior Frontend Developer
+   ├── Built & maintained 5+ client-facing React applications
+   ├── Improved page load speed by 35% through code splitting & lazy loading
+   ├── Collaborated with UI/UX team to implement pixel-perfect Figma designs
+   └── Wrote reusable component library used across 3 projects
+
+🏢 WebStudio Agency                           Jun 2023 – Dec 2023
+   Frontend Developer Intern
+   ├── Developed responsive landing pages for 10+ clients
+   ├── Converted static HTML/CSS sites to React
+   └── Integrated REST APIs and handled async state management
+```
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Rahul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7B7&line=3B82F6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulsharma-dev&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- 📖 **Next.js 14** — App Router, Server Components, Server Actions
+- 🎨 **Advanced CSS** — View Transitions API, Container Queries
+- ⚡ **Performance** — Core Web Vitals optimization, Lighthouse 100
+- 🧪 **Testing** — Vitest + React Testing Library
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+💬 **Open to:** Freelance projects, Job opportunities, Open Source collaboration
+
+<a href="https://linkedin.com/in/rahulsharma">
+  <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:rahulsharma.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Profile Views:**
+![Profile Views](https://komarev.com/ghpvc/?username=rahulsharma-dev&color=6EE7B7&style=flat-square&label=Profile+Views)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" />
+
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+</div>
