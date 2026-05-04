@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Rahul%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20✦%20React%20Enthusiast%20✦%20UI%20Craftsman&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Pardeep%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20✦%20React%20Enthusiast%20✦%20UI%20Craftsman&descAlignY=60&descSize=18" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=2+Years+of+Building+Beautiful+UIs+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Turning+Figma+Designs+into+Reality+%E2%9C%A8;Always+Learning%2C+Always+Improving+%F0%9F%93%9A" alt="Typing SVG" />
@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rahulsharma](https://www.linkedin.com/in/pardeepsharma01/))
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/rahulsharma_dev](https://x.com/sharmaji59))
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaji336659@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sharmaji336659&color=6EE7B7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -26,7 +27,6 @@ const pardeep = {
   experience: "2+ Years",
   location: "Yamuna Nagar, Haryana, India",
   
-  //currentlyWorking: "TechCorp Solutions Pvt. Ltd.",
   currentlyLearning: ["Next.js ", "Web Animations API", "Framer Motion"],
   
   passions: ["Clean UI", "Performance Optimization", "Accessible Web"],
@@ -74,8 +74,8 @@ const pardeep = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rahulsharma-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsharma-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pardeepsharma01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pardeepsharma01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -93,7 +93,7 @@ const pardeep = {
 
 <div align="center">
 
-[![Rahul's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsharma-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7B7&line=3B82F6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pardeep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pardeepsharma01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6EE7B7&line=3B82F6&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
