@@ -8,10 +8,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6EE7B7)](https://rahulsharma.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulsharma)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rahulsharma_dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulsharma.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=6EE7B7)]([https://rahulsharma.dev](https://pardeep-sharma-portfolio.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rahulsharma](https://www.linkedin.com/in/pardeepsharma01/))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/rahulsharma_dev](https://x.com/sharmaji59))
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaji336659@gmail.com)
 
 </div>
 
@@ -20,20 +20,20 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const rahul = {
-  name: "Rahul Sharma",
+const pardeep = {
+  name: "Pardeep Sharma",
   role: "Frontend Developer",
-  experience: "2 Years",
-  location: "Delhi, India 🇮🇳",
+  experience: "2+ Years",
+  location: "Yamuna Nagar, Haryana, India",
   
-  currentlyWorking: "TechCorp Solutions Pvt. Ltd.",
-  currentlyLearning: ["Next.js 14", "Web Animations API", "Framer Motion"],
+  //currentlyWorking: "TechCorp Solutions Pvt. Ltd.",
+  currentlyLearning: ["Next.js ", "Web Animations API", "Framer Motion"],
   
   passions: ["Clean UI", "Performance Optimization", "Accessible Web"],
   
   funFact: "I debug with console.log and I'm not ashamed 😄",
   
-  contact: "rahulsharma.dev@gmail.com"
+  contact: "sharmaji336659@gmail.com"
 };
 ```
 
@@ -65,6 +65,7 @@ const rahul = {
 ### Backend Basics
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
@@ -80,76 +81,13 @@ const rahul = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rahulsharma-dev&theme=tokyonight&hide_border=true&background=0D1117&fire=6EE7B7&ring=3B82F6&currStreakLabel=6EE7B7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pardeepsharma01&theme=tokyonight&hide_border=true&background=0D1117&fire=6EE7B7&ring=3B82F6&currStreakLabel=6EE7B7)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
 
-### 🛒 ShopEase — E-Commerce Platform
-> A full-featured e-commerce web app with cart, wishlist, filters & Razorpay integration
-
-**Tech Used:** `React` `Redux Toolkit` `Tailwind CSS` `Firebase` `React Query`
-
-- 🔹 Dynamic product filtering & search with debouncing
-- 🔹 Authentication with Google OAuth & email/password
-- 🔹 Optimized images with lazy loading (40% faster load time)
-- 🔹 Fully responsive & accessible (WCAG 2.1 AA)
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://shopease-demo.vercel.app)
-[![GitHub Repo](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulsharma-dev/shopease)
-
----
-
-### 📋 TaskFlow — Project Management App
-> Trello-inspired Kanban board with real-time drag & drop functionality
-
-**Tech Used:** `React` `TypeScript` `Framer Motion` `Supabase` `Zustand`
-
-- 🔹 Smooth drag-and-drop with beautiful animations
-- 🔹 Real-time collaboration using Supabase subscriptions
-- 🔹 Dark/Light theme with system preference detection
-- 🔹 PWA support — works offline
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://taskflow-demo.vercel.app)
-[![GitHub Repo](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulsharma-dev/taskflow)
-
----
-
-### 🌦️ WeatherNow — Weather Dashboard
-> Beautiful weather app with 7-day forecast, location search & animated UI
-
-**Tech Used:** `React` `Next.js` `TypeScript` `OpenWeather API` `CSS Modules`
-
-- 🔹 Location-based weather using Geolocation API
-- 🔹 Animated weather icons & smooth transitions
-- 🔹 Celsius/Fahrenheit toggle with local persistence
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6EE7B7?style=for-the-badge&logo=vercel&logoColor=black)](https://weathernow-demo.vercel.app)
-[![GitHub Repo](https://img.shields.io/badge/Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulsharma-dev/weathernow)
-
----
-
-## 💼 Work Experience
-
-```
-🏢 TechCorp Solutions Pvt. Ltd.               Jan 2024 – Present
-   Junior Frontend Developer
-   ├── Built & maintained 5+ client-facing React applications
-   ├── Improved page load speed by 35% through code splitting & lazy loading
-   ├── Collaborated with UI/UX team to implement pixel-perfect Figma designs
-   └── Wrote reusable component library used across 3 projects
-
-🏢 WebStudio Agency                           Jun 2023 – Dec 2023
-   Frontend Developer Intern
-   ├── Developed responsive landing pages for 10+ clients
-   ├── Converted static HTML/CSS sites to React
-   └── Integrated REST APIs and handled async state management
-```
-
----
 
 ## 📈 Contribution Activity
 
@@ -165,7 +103,7 @@ const rahul = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahulsharma-dev&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pardeepsharma01&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -186,11 +124,11 @@ const rahul = {
 
 💬 **Open to:** Freelance projects, Job opportunities, Open Source collaboration
 
-<a href="https://linkedin.com/in/rahulsharma">
+<a href="https://www.linkedin.com/in/pardeepsharma01/">
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:rahulsharma.dev@gmail.com">
+<a href="mailto:sharmaji336659@gmail.com">
   <img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -201,10 +139,10 @@ const rahul = {
 <div align="center">
 
 **Profile Views:**
-![Profile Views](https://komarev.com/ghpvc/?username=rahulsharma-dev&color=6EE7B7&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sharmaji336659&color=6EE7B7&style=flat-square&label=Profile+Views)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" />
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+*"First, solve the problem. Then, write the code." – Pardeep Sharma*
 
 </div>
